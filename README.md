@@ -1,4 +1,4 @@
-# StellaLana-WebDevPortfolio
+# My Portfolio
 Professional Portfolio of Coding Projects
 
 https://stellalana.github.io/StellaLana/
