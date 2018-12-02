@@ -3,8 +3,8 @@ Professional Portfolio of Coding Projects
 <hr>
 https://stellalana.github.io/StellaLana/
 
-Contact Info
-<hr>
+###### Contact Info
+-------------------
 Stella L. Griffith
 stella.l.griffith@gmail.com
 919-638-1186
