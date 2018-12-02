@@ -10,6 +10,7 @@ Stella L. Griffith
 stella.l.griffith@gmail.com
 
 919-638-1186
+<hr>
 
 This web app was built to showcase my personal portfolio of coding projects. Technologies and libraries used so far have been HTML, CSS, Javascript, CSS, Bootstrap, Jquery, Google fonts, Firebase, Ajax, and various APIs. Check out the portfolio page for completed projects.
 
