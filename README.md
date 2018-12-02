@@ -1,9 +1,9 @@
 # StellaLana-WebDevPortfolio
 Professional Portfolio of Coding Projects
-<hr>
+
 https://stellalana.github.io/StellaLana/
 
-###### Contact Info
+### Contact Info
 -------------------
 Stella L. Griffith
 stella.l.griffith@gmail.com
