@@ -1,6 +1,6 @@
 .btn-primary {
-  background-color: #4aaaa5;
-  border-color: #4aaaa5;
+  background-color: #4B9CD3;
+  border-color: #4B9CD3;
 }
 
 
@@ -34,7 +34,7 @@
   }
   
 #name {
-    background-color: #4aaaa5;
+    background-color: #4B9CD3;
     color: white;
     margin-right: 47%;
     padding: 15px;
@@ -60,7 +60,7 @@ h1 {
 }
 
 h2 {
-    color: #4aaaa5;
+    color: #4B9CD3;
 }
 
 body {
@@ -100,7 +100,7 @@ p {
     text-align: center;
     padding-top: 35px;
     padding-bottom: 10px;
-    border-top-color: #4aaaa5;
+    border-top-color: #4B9CD3;
     border-top-width: 8px;
     border-top-style: solid;
     font-size: 11px;
@@ -124,7 +124,7 @@ input[type=text], select, textarea {
 
 /* Style the submit button with a specific background color etc */
 input[type=submit] {
-    background-color: #4aaaa5;
+    background-color: #4B9CD3;
     color: white;
     padding: 12px 20px;
     border: none;
@@ -245,7 +245,7 @@ img {
   
   #boxtext {
     text-align: center;
-    background-color: #4aaaa5;
+    background-color: #4B9CD3;
     width: 100%;
     height: 50px;
     margin-bottom: 2px;
@@ -258,7 +258,7 @@ img {
     text-align: center;
   }
   .card-title {
-    background-color: #4aaaa5;
+    background-color: #4B9CD3;
     width: 100%;
     margin-top: 80%;
     padding: 5px
