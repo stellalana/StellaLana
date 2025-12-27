@@ -77,6 +77,19 @@ p {
     font-size: 24px;
 }
 
+.about-text p:first-of-type {
+  margin-top: 0;
+}
+.about-text {
+  overflow: hidden; /* contains the float */
+}
+.profile-photo {
+  float: left;
+  width: 220px;              /* adjust as needed */
+  margin: 0 20px 12px 0;     /* space between image and text */
+  border-radius: 4px;        /* optional polish */
+}
+
 /* Content */
 
 .wrapper {
@@ -282,6 +295,16 @@ img {
       width: 600px;
     }
   }
+
+  @media (max-width: 768px) {
+  .profile-photo {
+    float: none;
+    display: block;
+    margin: 0 auto 20px;
+    width: 100%;
+    max-width: 300px;
+  }
+}
 
   
   
